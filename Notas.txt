@@ -1,0 +1,12 @@
+---- Notas ----
+
+Carpetas:
+	- ejemplos_python ----> Archivos Python
+	- ejemplosReact   ----> Archivos HTML, con CDN de React
+	- primerProyecto  ----> Proyecto en Django
+
+Aplicaciones del Proyecto en Django:
+ 	- primerProyecto ----> App de configuración
+	- examenFinal    ----> App Examen Final
+	- proyCurso      ----> App Proyecto Curso
+	- ejemplo_django ----> App Introducción a Django
